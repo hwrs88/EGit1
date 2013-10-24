@@ -19,7 +19,7 @@ public class Saludo {
 		System.out.println("Hola Todos!");
 
 	}
-
+	
 	public static void buenDia(boolean generalizado) {
 
 		if (generalizado) {
@@ -39,5 +39,23 @@ public class Saludo {
 		}
 		
 	}
+	
+	public static void buenaNoche(boolean generalizado){
+		
+		if(generalizado){
+			System.out.println("Buenas noches");
+		}else{
+			System.out.println("Buena noche");
+		}
+		
+	}
+	
+	
+	public static void hiThere(){
+		
+		System.out.println("Hi there!...");
+		
+	}
+	
 	
 }
