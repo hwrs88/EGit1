@@ -14,4 +14,10 @@ public class Saludo {
 		
 	}
 	
+	public static void holaTodos(){
+		
+		System.out.println("Hola Todos!");
+		
+	}
+	
 }
