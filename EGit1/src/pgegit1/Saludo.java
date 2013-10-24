@@ -40,4 +40,16 @@ public class Saludo {
 		
 	}
 	
+	public static void buenaNoche(boolean generalizado){
+		
+		if(generalizado){
+			System.out.println("Buenas noches");
+		}else{
+			System.out.println("Buena noche");
+		}
+		
+	}
+	
+	
+	
 }
