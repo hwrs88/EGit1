@@ -27,4 +27,9 @@ public class Despedida {
 		
 	}
 	
+	public static void qudenBien(){
+		
+		System.out.println("Queden bien...");
+	}
+	
 }
