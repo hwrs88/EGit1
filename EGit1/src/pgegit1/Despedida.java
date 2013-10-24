@@ -20,4 +20,11 @@ public class Despedida {
 		
 	}
 	
+	
+	public static void pasenBuenas(){
+		
+		System.out.println("Pasen buenas...");
+		
+	}
+	
 }
