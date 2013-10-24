@@ -14,4 +14,10 @@ public class Despedida {
 		
 	}
 	
+	public static void hastaLuego(){
+		
+		System.out.println("Hasta luego...");
+		
+	}
+	
 }
