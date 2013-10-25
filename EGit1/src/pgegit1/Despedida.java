@@ -32,4 +32,9 @@ public class Despedida {
 		System.out.println("Queden bien...");
 	}
 	
+	public static void hastaNunca(){
+		
+		System.out.println("Hasta nunca...");
+	}
+	
 }
